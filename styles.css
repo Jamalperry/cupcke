@@ -1,0 +1,19 @@
+h1 {
+        color: brown;
+        text-align: center;
+        font-weight: bold;
+        line-height: 5px;
+}
+h3 {
+        color: beige;
+        text-align: center;
+        font-weight: bold;
+        line-height: 5px;
+}
+p {
+        font-family: cursive;
+}
+
+ul li {
+	color: beige;
+}
