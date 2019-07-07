@@ -2,18 +2,24 @@ h1 {
 	color: brown;
 	text-align: center;
 	font-weight: bold;
-	line-height: 5px;
+	line-height: 35px;
 }
 h3 {
-	color: beige;
+	color: red;
 	text-align: center;
 	font-weight: bold;
-	line-height: 5px;
+	line-height: 35px;
+	font-family: monospace;
 }
 p {
 	font-family: cursive;
+	color: brown;
 }
 ul li {
 	color: beige;
+}
+
+.important {
+	text-decoration: underline;
 }
 
