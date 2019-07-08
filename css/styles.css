@@ -16,9 +16,12 @@ p {
 	color: brown;
 }
 ul li {
-	color: beige;
+	color: red;
 }
-
+img {
+ 	width: 40%;
+	height: 30%;
+}
 .important {
 	text-decoration: underline;
 }
